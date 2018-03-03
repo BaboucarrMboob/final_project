@@ -1,0 +1,139 @@
+body{
+line-height: 1.7;
+
+}
+#YouTube{
+ 
+    font-family: tradegothic;
+    font-size: 5em;
+    text-shadow: rgba(0, 0, 0, 0.5) 0px 1px;(0, 0, 0, 0.5) 0px 1px;
+}
+#Tube{
+    background-image: -webkit-linear-gradient(bottom #6f0b16, #cd3133);
+    background-color: red;
+    padding-left: 0.09375em;
+    padding-right: 0.09375em;
+    text-shadow: (0, 0, 0, 0.5) 0px 1px;
+    border-radius:11% / 24%; 
+}
+
+.menu{
+    background-color: #555;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.22);
+    border-top: 1px solid rgba(128, 128, 128, 0.25);
+    text-align: center;
+    line-height: 1.7;
+    
+   
+}
+.img-title{
+    height: 200px;
+    width: 200px;
+}
+
+
+body,
+h1, h2, h3, h4, h5, h6,
+ul, ol {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.bax{
+    text-decoration: underline;
+    background-color: #004eff;
+    text-shadow: (0, 0, 0, 0.5) 0px 1px;
+    border-radius:11% / 24%;
+    color: white;
+    
+
+    
+    
+}
+
+
+
+.menu a:hover{
+    color: #f40d0d;
+    display: inline-block;
+    color: #fc0404;
+    
+}
+
+.menu a.active {
+ background-color: white;
+ color: black;
+  }
+
+
+.menu a {
+    color:white;
+    text-decoration: none;
+    padding: 1em 1.7em;
+}
+
+.main-content{
+    width: 50% 
+   } 
+   
+.logo img{
+    width: 50px;
+}
+
+.header-title{
+  font-size: 60pt;  
+    
+}
+.header-title-sub-title{
+    font-size: 35pt;
+    
+}
+
+.main{
+    background-color: #ffffff;
+    padding: 1em;
+    text-align: center;
+    display: flex;
+}
+
+
+
+.wrapper{
+    margin: 0 auto;
+    
+}
+
+h1{
+    text-align: center;
+}
+img{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    
+    vertical-align: middle;
+}
+
+.sidebar{
+    width: 40%;
+    margin: 0 auto;
+    
+}
+
+.section{
+    width: 50%;
+}
+
+.header{
+    text-align: center;
+}
+
+
+
+
+footer{
+    clear: both;
+    background-color: #111111;
+    color: #ffffff;
+}
